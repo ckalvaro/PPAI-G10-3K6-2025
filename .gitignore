@@ -1,0 +1,13 @@
+# Carpetas y binarios de Eclipse
+.settings/
+.classpath
+.project
+bin/
+
+# Carpetas de compilación de Maven/Gradle (si usás)
+target/
+build/
+
+# Archivos de sistema
+*.log
+*.tmp
